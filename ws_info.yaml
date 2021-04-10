@@ -1,0 +1,17 @@
+aws_region: us-east-1
+gazebo_version: 9
+iot_credential_endpoint: c1g2dmt0tdcbrn.credentials.iot.us-east-1.amazonaws.com
+iot_endpoint: a2qkg6j68npj3u-ats.iot.us-east-1.amazonaws.com
+project_dir: aws-robomaker-sample-application-delivery-challenge
+project_dir2: aws-robomaker-sample-application-delivery-challenge
+ros_version: Melodic
+security_groups:
+- sg-a98751a9
+subnets:
+- subnet-c699a28b
+- subnet-c7d7fac9
+- subnet-ed0372cc
+- subnet-dde59182
+- subnet-a3e05e92
+- subnet-2a98f34c
+vpc: vpc-85a82ff8
